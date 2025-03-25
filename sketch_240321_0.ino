@@ -76,5 +76,7 @@ void setup() {
 
 void loop() {
 // your program here  
-  
+
 }
+
+// студент 4 курсу ННІТІ Кононенко Антон
